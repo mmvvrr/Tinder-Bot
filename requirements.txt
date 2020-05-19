@@ -22,9 +22,6 @@ openpyxl==3.0.2
 pandas==0.25.3
 pylint==2.4.4
 pynder==0.0.13
-PyQt5==5.13.2
-PyQt5-sip==12.7.0
-pyqt5-tools==5.13.2.1.6rc1
 python-dateutil==2.8.1
 python-dotenv==0.10.3
 pytz==2019.3
